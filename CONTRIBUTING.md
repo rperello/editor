@@ -1,5 +1,7 @@
 # Contributing
 
+![paris](//paris.jpg)
+
 There are more than one way to contribute, and I will appreciate any way you choose.
 
 - tell your friends about lepture/editor, let lepture/editor to be known
